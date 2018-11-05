@@ -18,7 +18,7 @@ class testingViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be test recreated. -- nov
+        // Dispose of any resources that can be recreated.
     }
     
 
